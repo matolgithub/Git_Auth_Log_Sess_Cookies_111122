@@ -42,10 +42,19 @@ data = {
 
 
 def main():
-    response = session.post(url=url_login, data=data, headers=header)
-    print(response.status_code)
-    print(response.text)
+    # response = session.post(url=url_login, data=data, headers=header)
+
+    response = session.get(url=profile_url, data=data, headers=header).text
+
+    # print(response.status_code)
+    # print(response.text)
     # print(response.json())
+
+    soup = BeautifulSoup(response, "lxml")
+    with open("soup.txt", "w", encoding="utf-8") as file:
+        file.write(response)
+    # person_block = soup.find("div", id="profile")
+    pprint(soup)
 
 
 if __name__ == "__main__":

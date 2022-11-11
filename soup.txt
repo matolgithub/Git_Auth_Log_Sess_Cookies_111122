@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: https://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<meta property="og:title" content="Личный кабинет. Shop220 - Москва"/>
+<meta property="og:description" content="Личный кабинет. Shop220 - Москва"/>
+<meta property="og:image" content="https://shop220.ru/images/vdl.png">
+<meta property="og:type" content="product.group"/>
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="Shop220 - Москва" />
+<meta property="og:url" content= "https://shop220.ru/?action=cabinet" />
+<meta name="keywords" content="Личный кабинет">
+<meta name="description" content="Личный кабинет. Shop220 - Москва">
+<meta name="openstat-verification" content="5529aac9e8f98e213ac04197c8b37f545eb5e649" />
+<title>Личный кабинет. Shop220 - Москва</title>
+<link rel="shortcut icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="https://shop220.ru/?action=cabinet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" integrity="sha512-nMNlpuaDPrqlEls3IX/Q56H36qvBASwb3ipuo3MxeWbsQB1881ox0cRv7UPTgBlriqoynt35KjEwgGUeUXIPnw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="./images/css/stylesheet.css?v=2022_09_28">
+<script src="./images/js/maps/map.js"></script>
+<script src="./images/jquery.js"></script>
+<script src="./images/sweetalert.js"></script>
+<script src="./images/mobile/js/vendor/device.min.js"></script>
+<script src="./images/js/mobile.js?v=2022_09_28"></script>
+<script src="./images/jquery.cookie.js"></script>
+<script src="./images/js/js.cookie.min.js"></script>
+<script src="./images/lib1.js?v=2022_09_28"></script>    <script>
+var gmodule = '';
+var mobile = '0';
+var dp = "./";
+var ui = '0';
+var static_ver = window.static_ver = '2022_09_28';
+var min_order_cost_delivery = '1000';
+</script>
+</head>
+<body>
+<a name="contact"></a>
+<table id="contact" class="border0 cellspacing0 cellpadding0" style="margin-top: 90px; width: 100%; height: 100%;">
+<tr>
+<td style="padding: 0 4px 0 14px;" colspan="2">
+<table id="topmenu">
+<tr>
+<td class="top_menu_td"><table class="width1p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="nowrap width1p" ><span class="menu" href="./">Каталог электрики</span></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./about/">О Компании</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./rekviziti/">Реквизиты</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./lib/">Информация</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./news/">Новости</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./articles/">Статьи</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./vacansii/">Вакансии</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./bonus/">Программа лояльности</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./shipping/">Самовывоз и Доставка</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./contact/">Контакты</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./feedback/">Отзывы</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./sotrudnichestvo/">Сотрудничество</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+</tr>
+</table></td>
+<td class="sitemap_td"><a style="font-size: 13.3333px;font-weight: 400;" class="menu" href="/search2/">Поиск</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./search/">карта сайта</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="valigntop" style="padding: 20px 15px 0 22px;">
+<div class="aligncenter"><table style="float:left;" class="border0 cellspacing0 cellpadding0 width100p" >
+<tr>
+<td class="width33p valigntop alignleft" >
+<table class="width100p border0 cellspacing0 cellpadding0" style="margin: 0px;">
+<tr>
+<td class="width1p valigntop" >
+<a href="/1sda066889r1-vyvody-silovye-dlya-statsionarnogo-vyklyuchatelya-es-xt1-komplekt-iz-3sht.htm"><div style="width:34px; height: 34px; margin: -1px 0 0 -1px; background:url(./images/hit.gif) no-repeat; position: absolute;"></div><img alt="Выводы силовые для стационарного выключателя ES XT1 (комплект из 3шт.)" src="./images/data/cat/135138_small.jpg" class="img vspace0 hspace0 border0" width="75"></a>
+</td>
+<td class="width99p valigntop" style="padding: 0px 10px;">
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-top: 0px"><a style="font-size: 10pt" class="special" href="/1sda066889r1-vyvody-silovye-dlya-statsionarnogo-vyklyuchatelya-es-xt1-komplekt-iz-3sht.htm">Выводы силовые для стационарного выключателя ES XT1 (комплект из 3шт.)</a><br><b>Артикул: <span >1SDA066889R1</span></b><br><span >Выводы силовые для стационарного выключателя ES XT1 (комплект из 3шт.) Tmax XT ABB</span></td>
+</tr>
+<tr>
+<td style="font-size: 10pt; padding-top: 4px; padding-left: 2px"><span ><span class="price">1 972,96</span>
+</span> р.</td>
+</tr>
+<tr>
+<td style="padding-top: 5px"><span ><b >ABB</b></span><br><img src="./images/dot.gif" class="height1" width="150" alt="dot"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="width33p valigntop alignleft" >
+<table class="width100p border0 cellspacing0 cellpadding0" style="margin: 0px;">
+<tr>
+<td class="width1p valigntop" >
+<a href="/81755-nakladnoy-svetodiodnyy-svetilnik-tl08-ol-ecp-opal-60w-led-4000k-7400lm-ip40-1195h595h55mm.htm"><div style="width:88px; height: 88px; margin: 41px 0 0 41px; background:url(./images/action.png) no-repeat; position: absolute;"></div><img alt="Накладной светодиодный светильник TL08 OL ECP Опал 60W LED, 4000K 7400Lm IP40 1195х595х55мм" src="./images/data/cat/279102_big_1615390670_resize.jpg" class="img vspace0 hspace0 border0" width="75"></a>
+</td>
+<td class="width99p valigntop" style="padding: 0px 10px;">
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-top: 0px"><a style="font-size: 10pt" class="special" href="/81755-nakladnoy-svetodiodnyy-svetilnik-tl08-ol-ecp-opal-60w-led-4000k-7400lm-ip40-1195h595h55mm.htm">Накладной светодиодный светильник TL08 OL ECP Опал 60W LED, 4000K 7400Lm IP40 1195х595х55мм</a><br><b>Артикул: <span >81755.</span></b><br><span >Панельный светильник LED мощностью, мощностью 60 Ватт, нейтральный белый свет, опаловый рассеиватель</span></td>
+</tr>
+<tr>
+<td style="font-size: 10pt; padding-top: 4px; padding-left: 2px"><span class="oldprice">7 949,38</span><span ><span class="price">7 396,37</span>
+</span> р.</td>
+</tr>
+<tr>
+<td style="padding-top: 5px"><span ><b >Технолюкс</b></span><br><img src="./images/dot.gif" class="height1" width="150" alt="dot"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="width33p valigntop alignleft" >
+<table class="width100p border0 cellspacing0 cellpadding0" style="margin: 0px;">
+<tr>
+<td class="width1p valigntop" >
+<a href="/kvk-p-2-2h075-kabel-videonablyudeniya-kvk-p-2-2h075-vneshniy-buhta-200m.htm"><div style="width:34px; height: 34px; margin: -1px 0 0 -1px; background:url(./images/hit.gif) no-repeat; position: absolute;"></div><img alt="Кабель видеонаблюдения КВК-П-2 2х0,75 внешний [бухта 200м]" src="./images/data/cat/148078_small.jpg" class="img vspace0 hspace0 border0" width="75"></a>
+</td>
+<td class="width99p valigntop" style="padding: 0px 10px;">
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-top: 0px"><a style="font-size: 10pt" class="special" href="/kvk-p-2-2h075-kabel-videonablyudeniya-kvk-p-2-2h075-vneshniy-buhta-200m.htm">Кабель видеонаблюдения КВК-П-2 2х0,75 внешний [бухта 200м]</a><br><b>Артикул: <span >КВК-П-2 2х0,75</span></b><br><span >Кабель для систем видеонаблюдения КВК-П-2 2х0,75 внешний</span></td>
+</tr>
+<tr>
+<td style="font-size: 10pt; padding-top: 4px; padding-left: 2px"><span ><span class="price">69,24</span>
+</span> р.</td>
+</tr>
+<tr>
+<td style="padding-top: 5px"><span ><b >Паритет</b></span><br><img src="./images/dot.gif" class="height1" width="150" alt="dot"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="valigntop alignleft" style="padding: 20px 20px 3px 0px;" colspan="3">
+<table class="border0 cellspacing0 cellpadding0" style="width: 100%;">
+<tr>
+<td class="nowrap">
+<a class="cat_special_button hit" href="./cat0_special.htm">Хиты продаж</a>
+<a class="cat_special_button act" href="./cat0_special2.htm">Акция</a>
+<a class="cat_special_button sale" href="./cat0_special3.htm">Распродажа</a>
+</td>
+<td>
+<!-- Search form-->
+<form id="searchFrm" name="searchFrm" method="get" action="./search/" class="relative">
+<table class="width1p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="clearable">
+<input name="s" type="text" id="s" value="" placeholder="Поиск: в каталоге 74263 позиций (13666 в наличии)" autocomplete="off">
+<i class="clearable__clear">&times;</i>
+</td>
+<td>
+<input type="submit" class="search_btn" value="искать!">
+</td>
+</tr>
+</table>
+<div id="search_info"></div>
+</form>
+<!-- Search form-->
+</td>
+<td style="width: 145px; text-align: left; padding: 10px 0px 0 0;">
+<!-- <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,moimir,twitter,linkedin,lj,viber,whatsapp,skype,telegram" data-limit="3"></div>
+-->
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,moimir,twitter,reddit,linkedin,lj,viber,whatsapp,skype,collections" data-limit="3"></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table></div>
+</td>
+</tr>
+<tr>
+<td class="valigntop" style="padding:0 15px 0 22px;" colspan="2">
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="alignleft" style="padding-bottom: 15px;">
+<!-- lefmenu -->
+<div id="leftmenu">
+<div style="margin:0 0 20px 0;"><ul>
+<li>
+<a class=" top " href="/kabel-provod.htm">Кабель, провод</a>
+</li>
+<li>
+<a class=" top " href="/elektromontazhnye-izdeliya-kabelnye-sistemy-instrument.htm">Электромонтажные изделия, кабельные системы, клеммы</a>
+</li>
+<li>
+<a class=" top " href="/elektromontazhnyy-instrument.htm">Инструмент для электромонтажных и строительных работ</a>
+</li>
+<li>
+<a class=" top " href="/krepezh.htm">Крепеж</a>
+</li>
+<li>
+<a class=" top " href="/promyshlennaya-i-bytovaya-himiya.htm">Промышленная и бытовая химия</a>
+</li>
+<li>
+<a class=" top " href="/kabelnye-lotki-metallicheskie.htm">Кабельные лотки металлические</a>
+</li>
+<li>
+<a class=" top " href="/nvo-avtomaticheskie-vyklyuchateli-uzo-shchity-boksy-elektroschetchiki.htm">НВО (Автоматические выключатели, УЗО, щиты, боксы, электросчетчики)</a>
+</li>
+<li>
+<a class=" top " href="/rozetki-i-vyklyuchateli-skrytogo-montazha.htm">Розетки и выключатели скрытого монтажа</a>
+</li>
+<li>
+<a class=" top " href="/rozetki-i-vyklyuchateli-nakladnogo-montazha.htm">Розетки и выключатели накладного монтажа</a>
+</li>
+<li>
+<a class=" top " href="/rozetki-i-vyklyuchateli-vlagozashchishchennye.htm">Розетки и выключатели влагозащищенные</a>
+</li>
+<li>
+<a class=" top " href="/elektrooborudovanie-dlya-ofisov-kabel-kanaly-lyuki-kolonny-rozetki-45h45.htm">Электрооборудование для офисов (кабель-каналы, люки, колонны, розетки)</a>
+</li>
+<li>
+<a class=" top " href="/silovye-razyomy-vilki-udliniteli.htm">Силовые разъёмы, вилки, колодки электрические</a>
+</li>
+<li>
+<a class=" top " href="/lampy.htm">Лампы</a>
+</li>
+<li>
+<a class=" top " href="/svetodiodnye-svetilniki-led.htm">Светодиодные светильники LED</a>
+</li>
+<li>
+<a class=" top " href="/svetodiodnye-lenty.htm">Светодиодные ленты, модули, профили, блоки питания</a>
+</li>
+<li>
+<a class=" top " href="/svetilniki.htm">Светильники ламповые</a>
+</li>
+<li>
+<a class=" top " href="/komplektuyushchie-dlya-svetilnikov.htm">Комплектующие для светильников</a>
+</li>
+<li>
+<a class=" top " href="/teplye-poly-obogrev-trub-konvektory.htm">Теплые полы, обогрев труб и кровли, терморегуляторы</a>
+</li>
+<li>
+<a class=" top " href="/telekommunikatsionnoe-oborudovanie.htm">Телекоммуникационное оборудование</a>
+</li>
+<li>
+<a class=" top " href="/elektrodvigateli-preobrazovateli-chastoty-ustroystvo-plavnogo-puska.htm">Электродвигатели, преобразователи частоты, устройство плавного пуска</a>
+</li>
+<li>
+<a class=" top " href="/zaryadnye-stantsii-dlya-elektromobiley.htm">Зарядные станции для электромобилей</a>
+</li>
+<li>
+<a class=" top " href="/bytovye-elektrotovary.htm">Бытовые электротовары</a>
+</li>
+<li>
+<a class=" top " href="/novogodnie-girlyandy-figury-elki.htm">Новогодние гирлянды, фигуры, елки</a>
+</li>
+<li>
+<a class=" top " href="/utsenennye-tovary.htm">Уцененные товары</a>
+</li>
+</ul></div>
+<div style="margin:0 0 20px 0;"><table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="header">Новости</td>
+</tr>
+</table>
+<table id="news_column" class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-bottom: 26px; color: #464646">
+<div class="preloader"></div>
+</td>
+</tr>
+</table>
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="valigntop">
+<table class="border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-top: 8px"><a style="font-size: 7pt" href="./news/">архив</a></td>
+<td class="width1" style="padding-top: 11px; padding-left: 4px"><img src="./images/li_main.gif" alt=""></td>
+</tr>
+</table>
+</td>
+</tr>
+</table></div>
+<div><table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="header">Статьи и обзоры</td>
+</tr>
+</table>
+<table id="articles_column" class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-bottom: 26px; color: #464646">
+<div class="preloader"></div>
+</td>
+</tr>
+</table>
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="valigntop">
+<table class="border0 cellspacing0 cellpadding0" >
+<tr>
+<td style="padding-top: 8px"><a style="font-size: 7pt" href="./articles/">архив</a></td>
+<td class="width1" style="padding-top: 11px; padding-left: 4px"><img src="./images/li_main.gif"  alt=""></td>
+</tr>
+</table>
+</td>
+</tr>
+</table></div>
+</div>
+<!-- end lefmenu -->
+<div style="padding-left: 270px;">
+<div id="breadcrumbs">
+</div>
+<a id="wishlist_button" class="cat_special_button wishlist_menu inner" href="/wishlist.htm">Блокнот</a>
+<h1>Личный кабинет </h1>
+<!--<br><br><center><table border=1 width=800><tr><td>Тут баннер<br><br><br><br></td></tr></table></center>-->
+<div id="content" style="padding-left: 1px">
+<div><br>
+<table class="width100p border0 cellpadding4 cellspacing0" >
+<tr>
+<td class="aligncenter" bgcolor="#CC3300"><strong><font color="#FFFFFF">Ошибка в данных</font></strong></td>
+</tr>
+<tr>
+<td height="50" class="aligncenter">Для доступа к личному кабинету Вам необходимо сначала зарегистрироваться.</td>
+</tr>
+<tr>
+<td height="50" class="aligncenter"><a href="javascript:history.back(1);">&laquo; вернуться</a></td>
+</tr>
+</table>
+</div>
+</div>
+<div  class="left" style="width:77%" >
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<!--правый блок-->
+<!--/правый блок-->
+</tr>
+<tr>
+<td class="height100p valigntop" colspan="2" style="padding: 40px 4px 24px 14px;">
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="top_menu_td"><table class="width1p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="nowrap width1p" ><span class="menu" href="./">Каталог электрики</span></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./about/">О Компании</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./rekviziti/">Реквизиты</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./lib/">Информация</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./news/">Новости</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./articles/">Статьи</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./vacansii/">Вакансии</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./bonus/">Программа лояльности</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./shipping/">Самовывоз и Доставка</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./contact/">Контакты</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./feedback/">Отзывы</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+<td class="nowrap width1p" ><a class="menu" href="./sotrudnichestvo/">Сотрудничество</a></td>
+<td class="width10p" style="padding-left: 10px">&nbsp;</td>
+</tr>
+</table></td>
+<td class="sitemap_td">
+<a style="font-size: 7pt; color: white;" href="./search/">карта сайта</a>
+&nbsp;|&nbsp;
+<form action='./' method='post'>
+<input type='hidden' name='mobile' value='1'>
+<a href="javascript:;" onclick="$(this).closest('form').submit()">Мобильная версия</a>
+</form>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="aligncenter valigntop" style="padding: 0px 0 24px 22px;">
+<table class="border0 alignleft cellpadding0 cellspacing0"   >
+<tr>
+<td class="width1p alignleft valignmiddle"   style="padding-right: 50px">
+<!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="600" height="60">
+<param name="movie" value="./ban_01_is4.swf">
+<param name="quality" value="high">
+<param name="wmode" value="opaque" />
+<embed src="./ban_01_is4.swf" wmode="opaque" quality="high" pluginspage="//www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="600" height="60">
+</object>-->
+</td>
+<td class="width123 alignright" >
+<table class="border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="width244 alignleft nowrap"   style="padding-left: 4px; font-size: 7pt">&copy; ООО "Шоп220", 2007-2022<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy/">Политика конфиденциальности</a></td>
+</tr>
+<tr>
+<td class="nowrap alignleft"  style="padding: 0 0 15px 19px;">
+<div class="alignleft"><a style="font-size: 7pt" href="./legal/">Юридическая информация</a></div>
+</td>
+</tr>
+<tr>
+<td class="alignleft">
+<div style="width: 200px; font-size: 10px;">
+<img src="./images/webis.gif" style="margin-bottom: -5px;">
+<noindex><a target="_blank" title="Webis Group" href="https://www.webisgroup.ru/">Webis Group</a></noindex>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="width200 alignleft valigntop"   style="padding: 3px 0px 0px 40px">
+<table class="width100p border0 cellspacing0 cellpadding0" >
+<tr>
+<td class="nowrap" style="padding: 0 0 4px 0px; font-size: 7pt;">+7 499 220-88-88</td>
+</tr>
+<tr>
+<td style="padding: 0 0 4px 0px; font-size: 7pt;">  <a  href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#115;&#104;&#111;&#112;&#50;&#50;&#48;&#46;&#114;&#117;">&#105;&#110;&#102;&#111;&#64;&#115;&#104;&#111;&#112;&#50;&#50;&#48;&#46;&#114;&#117;</a></td>
+</tr>
+</table>
+<br>
+<noindex>
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t38.14;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script>
+<!--/LiveInternet-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+var yaParams = {/*Здесь параметры визита*/};
+</script>
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter17797648 = new Ya.Metrika({id:17797648,
+webvisor:true,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,params:window.yaParams||{ }});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//shop220.ru/js/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/17797648" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D0DWLZLYQ1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-D0DWLZLYQ1');
+</script>
+</noindex>
+</td>
+</tr>
+</table>
+<script src="./images/float_panel/jquery.jscrollpane.min.js"></script>
+<script src="./images/float_panel/jquery.scrollTo-min.js"></script>
+<link href="./images/float_panel/floatpanel.css" rel="stylesheet" type="text/css">
+<link href="./images/float_panel/popup/popup.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 8]>
+<style>
+.select-wrap select{
+background:transparent;
+-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00000000,endColorstr=#00000000);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00000000,endColorstr=#00000000);
+zoom:1;
+}
+</style>
+<![endif]-->
+<script src="./images/float_panel/panel_generic1.js?v=2022_09_28"></script>
+<div id="float_panel">
+<div class="inner">
+<table itemscope itemtype="https://schema.org/Organization" style="width: 100%; height: 100%" class="border0 cellspacing0 cellpadding0" >
+<tr>
+<td id="logo" class="width20p valigntop" >
+<a href="./">
+<img class="logoimg" src="./images/logo/logo.png" alt="Интернет-магазин электрики и электротоваров shop220 в Москве - купить от кабеля до лампочки по дешевым ценам." title="Интернет-магазин электрики и электротоваров shop220 в Москве - купить от кабеля до лампочки по дешевым ценам."  style="margin-left: 20px">
+</a>
+</td>
+<td id="title" class="width30p alignright valignmiddle"  >
+<span itemprop="name">Интернет-магазин электрики<br>и электротоваров Shop220</span>
+</td>
+<td id="cart_td" class="width1p valigntop aligncenter"  >
+<div id="cart" class="cart_status">
+<div class="left">
+<img src="/images/cart2.png" height="42" width="50" class="border0" alt="Корзина заказа">
+</div>
+<div class="right" style="position: relative;">
+<div>
+<b>В корзине: </b><br>
+<br>Корзина пуста.<br>
+<span style=""> </span>
+</div>
+&nbsp;
+</div>
+</div>
+</td>
+<td class="width30p valigntop" align="center">
+<div id="confirm-city-selector"  data-region="0" class="city_selector  ">
+Выберите город:<br>
+<select class="test_selector city_selector" onChange="toggleRegion(this)" style="display: inline-block;">
+<option value="">Москва</option>
+<option value="spb" >Санкт-Петербург</option>
+<option value="ast" >Астрахань</option>
+<option value="vld" >Владивосток</option>
+<option value="alt" >Горно-Алтайск</option>
+<option value="kem" >Кемерово</option>
+<option value="kolomna" >Коломна</option>
+<option value="krd" >Краснодар</option>
+<option value="nch" >Набережные Челны</option>
+<option value="nn" >Нижний Новгород</option>
+<option value="pushkino" >Пушкино</option>
+<option value="ramenskoe" >Раменское</option>
+<option value="sam" >Самара</option>
+<option value="sergiev-posad" >Сергиев Посад</option>
+<option value="sml" >Смоленск</option>
+<option value="tula" >Тула</option>
+<option value="khb" >Хабаровск</option>
+</select>
+</div>
+<style>
+.select2-container--open .select2-dropdown--below {
+width: 125px !important;
+/*margin-top: -15px;*/
+}
+.step2-regions {
+display: flex;
+}
+.step2-regions select {
+margin-right: 10px;
+width: 110px;
+}
+.city-confirm {
+margin-top: 10px;
+}
+.city-confirm-btn {
+color: #fff;
+background: gray;
+border-radius: 0;
+padding: 4px 8px;
+margin-right: 10px;
+border: none;
+font-size: 10px;
+}
+.city-confirm-btn:hover {
+color: #fff;
+text-decoration: none;
+background: #6ac334;
+}
+.city_selector.d-none {
+display: none;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+color: #0077c3;
+line-height: 20px;
+display: inline-block;
+text-decoration: none;
+border-bottom: 1px #0077c3 dotted;
+padding: 3px 0px 0px 0px;
+}
+.select2-container--default .select2-selection--single {
+background-color: transparent;
+border: none;
+border-radius: 0;
+height: 20px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+display: none;
+}
+@media screen and (max-width: 1450px) {
+.step2-regions {
+display: flex;
+flex-flow: column;
+align-items: flex-start;
+}
+}
+</style>
+</td>
+<td class="width30p valigntop" >
+<table class="contacts width1p border0 cellspacing0 cellpadding0" style="margin: 9px 35px 0 0">
+<tr>
+<td class="width1p valigntop" style="padding: 3px 6px 0 0;"><img src="./images/phone.gif" width="21" height="20" alt=""></td>
+<td class="width99p telefon nowrap" itemprop="telephone">+7 499 220-88-88</td>
+</tr>
+<tr>
+<td colspan="2" class="alignleft valigntop header_extra nowrap" style="padding-top: 5px">
+<img style="float: left; margin: -2px 8px 0 0;" src="./images/eml.gif" height="21" width="21"  alt="">
+<span itemprop="email">  <a  href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#115;&#104;&#111;&#112;&#50;&#50;&#48;&#46;&#114;&#117;">&#105;&#110;&#102;&#111;&#64;&#115;&#104;&#111;&#112;&#50;&#50;&#48;&#46;&#114;&#117;</a></span>
+<meta itemprop="address" content="г. Москва, Новохохловская ул., д. 91, стр. 10" />
+</td>
+</tr>
+<tr>
+<td colspan="2" class="alignleft valigntop header_extra nowrap" style="padding-top: 5px">
+<img style="float: left; margin: -2px 8px 0 0;" src="./images/workdays.gif" height="21" width="21"  alt=""> Пн-Пт 8:00-20:00, Сб-Вс 8:00-18:00</td>
+</tr>
+</table>
+</td>
+<td class="width1p valigntop" style="padding: 7px 15px 0 0;">
+<div class="panel-login-form">
+<table class="panel-login-form__umenu">
+<tr>
+<td>
+<button class="button panel-login-form__link panel-login-form__link_open-login-frm load-module" data-module="loginfrm">Войти</button>
+<button class="button panel-login-form__link" onClick="window.location='./register/'; ">Регистрация</button>
+</td>
+</tr>
+</table>
+<table class="panel-login-form__form-table width100p border0 cellspacing0 cellpadding0">
+<tr>
+<td class="alignleft" style="padding-bottom: 2px"><b>Личный кабинет</b></td>
+</tr>
+<tr>
+<td class="valigntop">
+<form id="LoginForm" name="panel-login-form__form" method="post" action="./index.php">
+<input type="hidden" name="action" value="doLogin">
+<input type="hidden" name="keepoldcart" value="0">
+<table class="border0 cellspacing0 cellpadding0">
+<tr>
+<td class="valigntop text nowrap alignleft" style="padding: 3px 10px 5px 0">Логин / email</td>
+<td style="padding-bottom: 2px;">
+<input name="Username" tabindex="1" type="text" id="Username" style="width: 100px; border: 1px #a3a3a3; height: 17px; border-style: solid; font-size: 8pt" required>
+</td>
+<td rowspan="2" class="width1" style="padding-left: 7px">
+<!--<input id="loginbutton" tabindex="3" type="image" src="./images/arrow.gif" style="border: 0px">-->
+<button id="loginbutton" tabindex="3" style="background-image: url(./images/arrow.gif);"></button>
+</td>
+</tr>
+<tr>
+<td class="valigntop text" style="padding-right: 12px; padding-top: 3px">Пароль</td>
+<td>
+<input name="Password" tabindex="2" type="password" id="Password" style="width: 100px; border: 1px #a3a3a3; height: 17px; border-style: solid; font-size: 8pt" required>
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+<tr>
+<td>
+<table class="width100p border0 cellspacing0 cellpadding0">
+<tr>
+<td class="alignleft nowrap" style="padding-top: 4px">
+<a style="font-size: 7pt" href="./register/recall/">Забыли пароль?</a>&nbsp;
+<a style="font-size: 7pt" href="./register/">Регистрация</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<script>
+$("#LoginForm #loginbutton").on('click', function(ev) {
+ev.preventDefault();
+var oldcartid = Cookies.get('cookie_cartID_global');
+if (oldcartid != null) {
+$.ajax({
+url: './',
+type: 'GET',
+data: {
+action: 'ajaxGetCartStatus',
+},
+datatype: "json",
+success: function(data) {
+var result = JSON.parse(data);
+if (result.status) {
+swal({
+title: "Добавить товары в личную корзину?",
+icon: "warning",
+buttons: ["Нет", "Да"],
+dangerMode: true,
+})
+.then(function(ok) {
+if (ok) {
+$("#LoginForm [name=keepoldcart]").val(1);
+//@TODO: addToPersonCart&personcart=&cart=
+$('#LoginForm').submit();
+} else {
+$('#LoginForm').submit();
+}
+});
+} else {
+$('#LoginForm').submit();
+}
+},
+error: function() {
+alert('cart error');
+}
+});
+} else {
+$('#LoginForm').submit();
+}
+});
+</script>
+</td>
+</tr>
+</table>
+</div>
+<div id="popupbox">
+<div id="popupbox-top-left-corner" class="popupbox-corner"></div>
+<div id="popupbox-top-side" class="popupbox-horizont-side"></div>
+<div id="popupbox-top-right-corner" class="popupbox-corner"></div>
+<div id="popupbox-right-side" class="popupbox-vertical-side"></div>
+<div id="popupbox-bottom-right-corner" class="popupbox-corner"></div>
+<div id="popupbox-bottom-side" class="popupbox-horizont-side"></div>
+<div id="popupbox-bottom-left-corner" class="popupbox-corner"></div>
+<div id="popupbox-left-side" class="popupbox-vertical-side"></div>
+<div id="popupbox-content">
+<div id="popupbox-header"></div>
+<div id="popupbox-close"></div>
+<div id="popupbox-title"></div>
+<div id="popupbox-text"></div>
+</div>
+</div>
+</div>
+<div id="loading" class="modal_window">
+<div class="modal_window_bg2">
+<div class="loading"></div>
+</div>
+<div class="modal_window_bottom"></div>
+</div>
+<div title="Наверх" class="back-to-top"></div>
+<div title="Наверх" class="back-to-top" style="right: auto; left: 14px"></div>
+<link rel="stylesheet" href="./images/lightbox/lightbox1.css">
+<!-- <link rel="stylesheet" href="<= $dir_prefix ?>images/sweetalert/src/sweetalert.css"> -->
+<link rel="stylesheet" href="./images/css/cart.css?v=2022_09_28">
+<link rel="stylesheet" href="./images/jcarousel/skins/tango/skin.css" />
+<script src="./images/js/plugins.js?v=2022_09_28" ></script>
+<script src="./images/js/jquery.toc.min.js" ></script>
+<script src="./images/vendor/underscore-min.js" ></script>
+<script src="./images/vendor/autocomplete/jquery.autocomplete.min.js" ></script>
+<script src="./images/vendor/jquery-inputmask/jquery.inputmask.bundle.min.js" ></script>
+<script src="./images/vendor/jquery-validation/js/jquery.validate.min.js" ></script>
+<script src="./images/vendor/jquery-validation/js/localization/messages_ru.js" ></script>
+<script src="./images/vendor/jquery-validation/js/additional-methods.min.js" ></script>
+<script src="./images/lightbox/lightbox1.js" ></script>
+<script src="./images/jcarousel/jquery.jcarousel.min.js" ></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/i18n/defaults-ru_RU.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js" integrity="sha512-2ImtlRlf2VVmiGZsjm9bEyhjGW4dU7B6TNwh/hx/iSByxNENtj3WVE6o/9Lj4TJeVXPi4bnOIMXFIJJAeufa0A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+$(document).ready(function() {
+$(".test_selector").select2({
+minimumResultsForSearch: -1
+});
+$(".change_regions").select2({
+minimumResultsForSearch: -1
+});
+});
+</script>
+<script data-main="./images/js/init.js?v=2022_09_28" src="./images/vendor/require.js?v=2022_09_28" ></script>
+</body>
+</html>
