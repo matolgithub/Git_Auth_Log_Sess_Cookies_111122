@@ -1,0 +1,4 @@
+requests
+bs4
+fake_headers
+fake_user_agent
